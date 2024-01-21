@@ -18,12 +18,7 @@
     "express": "^4.18.2",
     "hbs": "^4.2.0",
     "jsonwebtoken": "^9.0.2",
-<<<<<<< HEAD
     "mongoose": "^8.0.4",
     "nodemon": "^3.0.3"
-=======
-    "mongoose": "^8.0.4"
-
->>>>>>> 2e383708d2f82f3d0300b522d8acacf7a5889be1
   }
 }
